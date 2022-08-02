@@ -1,0 +1,12 @@
+.navbar {
+  background-color: rgba(253, 253, 253, 0.477);
+}
+.navbar-div {
+  display: flex;
+  justify-content: space-around;
+}
+.navbar-div a {
+  text-decoration: none;
+  padding: 20px;
+  color: black;
+}

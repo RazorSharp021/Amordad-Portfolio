@@ -1,0 +1,43 @@
+#tracks h1 {
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#tracks-div {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+  /* padding: 100px; */
+}
+.track1 {
+  margin: 0;
+}
+
+.track1 [style] {
+  max-width: 350px;
+  margin: 0 auto;
+}
+.track2 [style] {
+  max-width: 350px;
+  margin: 0 auto;
+}
+
+.track3 [style] {
+  max-width: 350px;
+  margin: 0 auto;
+}
+.track4 [style] {
+  max-width: 350px;
+  margin: 0 auto;
+}
+
+.track5 [style] {
+  max-width: 350px;
+  margin: 0 auto;
+}
+.track6 [style] {
+  max-width: 350px;
+  margin: 0 auto;
+}
